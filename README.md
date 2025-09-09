@@ -1,6 +1,8 @@
-# Week1-Code-Challenge
+#### September 2023
 
-# JavaScript Programming Challenges
+#### By Suleiman
+
+# Week1-Code-Challenge
 
 Three JavaScript programs that solve different programming challenges: Student Grade Generator, Speed Detector, and Net Salary Calculator.
 
@@ -44,4 +46,10 @@ Uses official KRA, NHIF, and NSSF values for accurate calculations.
 ├── net-salary-calculator.js
 ├── README.md
 
+## Installation
+You need to use git clone to download the files from GitHub.
+
+## Installation Requirements
+- Git
+- Node.js (to run the JavaScript files)
 
